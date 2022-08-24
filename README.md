@@ -9,3 +9,8 @@
 
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Nithinjayan4&layout=compact)
+
+
+<h2>🏆 Github Profile Trophy</h2>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nithinjayan4&row=3&column=3)](https://github.com/ryo-ma/github-profile-trophy)
