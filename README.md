@@ -1,6 +1,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=M+E+R+N+Stack+Developer.)](https://git.io/typing-svg)
 
+<p align="center">
+  
+  <h2 align="center">Nithin S Jayan/h2>
+</p>
+
 
 ### Hi there 👋 Nithin S Jayan
 
