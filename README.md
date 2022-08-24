@@ -3,11 +3,11 @@
 
 <p align="center">
   
-  <h2 align="center">Nithin S Jayan/h2>
+  <h2 align="center"> Hi there 👋 Nithin S Jayan</h2>
 </p>
 
 
-### Hi there 👋 Nithin S Jayan
+
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Nithinjayan4&&show_icons=true&title_color=FFFFFF&icon_color=29FB03&text_color=FA0707&bg_color=000000">
