@@ -19,3 +19,8 @@
 
 
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=Nithinjayan4&column=9&theme=gruvbox&no-frame=true"/>
+
+
+<h2>🐍 Watch my contribution graph get eaten by the snake 🐍</h2>
+
+![snake gif](https://github.com/Nithinjayan4/Nithinjayan4/blob/output/github-contribution-grid-snake.gif)
