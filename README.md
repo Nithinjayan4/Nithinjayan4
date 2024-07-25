@@ -22,6 +22,3 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-<h2>🐍 Watch my contribution graph get eaten by the snake 🐍</h2>
-
-![snake gif](https://github.com/Nithinjayan4/Nithinjayan4/blob/output/github-contribution-grid-snake.gif)
