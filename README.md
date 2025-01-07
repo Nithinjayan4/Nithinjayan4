@@ -8,7 +8,7 @@ I'm a dedicated IT professional with a keen interest in software development. Cu
 
 ## Skills & Technologies
 
-html,css,js,react,nodejs,express,mongodb,tailwind
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind&perline=8)](https://skillicons.dev)
 
 ## Connect with Me
 
