@@ -12,4 +12,4 @@ html,css,js,react,nodejs,express,mongodb,tailwind
 
 ## Connect with Me
 
-{"instagram":"https://www.instagram.com/techtraderlife","twitter":"https://x.com/techtraderlife","linkedin":"https://www.linkedin.com/in/nithinsj/","facebook":"https://www.facebook.com/nithin.jayan.355/"}
+<a href="https://www.instagram.com/techtraderlife" target="_blank" rel="noopener noreferrer"><Icon /> Instagram</a> | <a href="https://x.com/techtraderlife" target="_blank" rel="noopener noreferrer"><Icon /> Twitter</a> | <a href="https://www.linkedin.com/in/nithinsj/" target="_blank" rel="noopener noreferrer"><Icon /> Linkedin</a> | <a href="https://www.facebook.com/nithin.jayan.355/" target="_blank" rel="noopener noreferrer"><Icon /> Facebook</a>}
