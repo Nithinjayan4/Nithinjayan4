@@ -12,4 +12,4 @@ I'm a dedicated IT professional with a keen interest in software development. Cu
 
 ## Connect with Me
 
-<a href="https://www.instagram.com/techtraderlife" target="_blank" rel="noopener noreferrer"><Icon /> Instagram</a> | <a href="https://x.com/techtraderlife" target="_blank" rel="noopener noreferrer"><Icon /> Twitter</a> | <a href="https://www.linkedin.com/in/nithinsj/" target="_blank" rel="noopener noreferrer"><Icon /> Linkedin</a> | <a href="https://www.facebook.com/nithin.jayan.355/" target="_blank" rel="noopener noreferrer"><Icon /> Facebook</a>}
+<a href="https://www.instagram.com/techtraderlife" target="_blank" rel="noopener noreferrer"><Icon /> Instagram</a> | <a href="https://x.com/techtraderlife" target="_blank" rel="noopener noreferrer"><Icon /> Twitter</a> | <a href="https://www.linkedin.com/in/nithinsj/" target="_blank" rel="noopener noreferrer"><Icon /> Linkedin</a> | <a href="https://www.facebook.com/nithin.jayan.355/" target="_blank" rel="noopener noreferrer"><Icon /> Facebook</a>
