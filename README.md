@@ -28,9 +28,9 @@ I am a **Full Stack Developer** with expertise in **MERN Stack (MongoDB, Express
 
 ## 📊 GitHub Stats
 
-![Nithin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NithinS-Jayan&show_icons=true&theme=radical)
+![Nithin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nithinjayan4&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NithinS-Jayan&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nithinjayan4&layout=compact&theme=radical)
 
 ---
 
