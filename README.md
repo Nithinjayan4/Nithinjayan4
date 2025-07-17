@@ -17,7 +17,7 @@ I am a **Full Stack Developer** with expertise in **MERN Stack (MongoDB, Express
 ## 💻 Tech Stack & Skills
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,nextjs,py,django,aws,docker,wordpress,git&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,wordpress,elementor,woocommerce,react,nodejs,express,mongodb,tailwind,nextjs,py,django,aws,docker,git&perline=8)](https://skillicons.dev)
 
 <!-- Additional Icons -->
 <p>
