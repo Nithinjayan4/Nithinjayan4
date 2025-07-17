@@ -15,14 +15,22 @@ I am a **Full Stack Developer** with expertise in **MERN Stack (MongoDB, Express
 ---
 
 ## 💻 Tech Stack & Skills
+## 💻 Tech Stack & Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,nextjs,py,django,aws,docker,git&perline=8)](https://skillicons.dev)
 
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+![SVG-Ink](https://img.shields.io/badge/SVG--Ink-333?style=for-the-badge&logo=inkscape&logoColor=white)
+
 **🌟 Key Skills:**
-- Frontend: React.js, Next.js, Tailwind CSS, Bootstrap
-- Backend: Node.js, Express.js, MongoDB, PostgreSQL
-- DevOps & Cloud: AWS (Lambda, S3, RDS, API Gateway, Cognito), Docker
-- Other: Python, Django, REST API, GraphQL, Sequelize ORM
+- **Frontend**: React.js, Next.js, Tailwind CSS, Bootstrap, Elementor, SVG-Ink
+- **Backend**: Node.js, Express.js, MongoDB, PostgreSQL, WordPress
+- **E-commerce**: WooCommerce
+- **DevOps & Cloud**: AWS (Lambda, S3, RDS, API Gateway, Cognito), Docker
+- **Other**: Python, Django, REST API, GraphQL, Sequelize ORM, Git
+
 
 ---
 
